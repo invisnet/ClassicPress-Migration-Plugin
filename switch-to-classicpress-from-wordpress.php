@@ -1,5 +1,5 @@
 <?php
-/**
+/*
  * Plugin Name:       Switch to ClassicPress from WordPress
  * Plugin URI:        https://github.com/classicpress/classicpress-migration-plugin
  * Description:       Switch to ClassicPress from WordPress.
