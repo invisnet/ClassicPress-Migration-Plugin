@@ -78,10 +78,10 @@ function classicpress_pre_http_request_filter( $always_false, $r, $url ) {
     "offers": [
         {
             "response": "upgrade",
-            "download": "http:\/\/downloads.wordpress.org\/release\/wordpress-4.9.8.zip",
+            "download": "http://github.com/ClassicPress/ClassicPress/archive/1.0.0-alpha0.zip",
             "locale": "en_US",
             "packages": {
-                "full": "http:\/\/downloads.wordpress.org\/release\/wordpress-4.9.8.zip",
+                "full": "http://github.com/ClassicPress/ClassicPress/archive/1.0.0-alpha0.zip",
                 "no_content": false,
                 "new_bundled": false,
                 "partial": false,
